@@ -1,0 +1,8 @@
+E:\Final Project\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.csproj.AssemblyReference.cache
+E:\Final Project\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.csproj.SuggestedBindingRedirects.cache
+E:\Final Project\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+E:\Final Project\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.exe.config
+E:\Final Project\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.exe
+E:\Final Project\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.pdb
+E:\Final Project\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.exe
+E:\Final Project\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.pdb
